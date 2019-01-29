@@ -12,7 +12,7 @@ What do you do when you want to get screen capture in windows? In my case, like 
 >3. Save the image.
 >4. The image is saved in your chose directory.
 
-But,This way isn't easy. If you use desktop capture lite ,you can do it in easy experience.
+But,This way is a little flustlating.  WITH desktop capture lite ,you can do it in easy way.
 
 ## Usage
 
@@ -22,8 +22,8 @@ Just push keyboard shortcut.
 
 ### To see screen capture
 
-Open directory as DCL.js .
-There are some your screen captures in the directory.
+Open directory where DCL.js is located in.
+There are your screen captures in the directory.
 
 ### Requirement
 
@@ -41,9 +41,7 @@ There are some your screen captures in the directory.
 ## Author
 
 Yusei Ito  
-[My website "Sky"](http://mylife.html.xdomain.jp/)  
 [Twitter @Ityuj](http://www.twitter.com/ItyuJ/)  
-[My Blog](http://mylife.wp.xdomain.jp/)  
 
 ## Licence
 
